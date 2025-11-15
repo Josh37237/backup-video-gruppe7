@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Josh37237/backup-video-gruppe7/compare/v1.0.1...v1.1.0) (2025-11-15)
+
+
+### Features
+
+* Dark Mode ([306dc83](https://github.com/Josh37237/backup-video-gruppe7/commit/306dc837a9ad1c35f736b6a517b6a810c75e2fd9))
+
 ## [1.0.1](https://github.com/Josh37237/backup-video-gruppe7/compare/v1.0.0...v1.0.1) (2025-11-15)
 
 
