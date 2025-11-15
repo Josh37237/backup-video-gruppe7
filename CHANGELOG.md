@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/Josh37237/backup-video-gruppe7/compare/v1.2.0...v2.0.0) (2025-11-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* New look
+
+### Features
+
+* New look ([2ac4e88](https://github.com/Josh37237/backup-video-gruppe7/commit/2ac4e88035f24455aa7b11cdca9c7f0b3e3fba93))
+
 ## [1.1.0](https://github.com/Josh37237/backup-video-gruppe7/compare/v1.0.1...v1.1.0) (2025-11-15)
 
 
