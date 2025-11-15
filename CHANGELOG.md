@@ -1,12 +1,5 @@
 # Changelog
 
-## [1.2.0](https://github.com/Josh37237/backup-video-gruppe7/compare/v1.1.0...v1.2.0) (2025-11-15)
-
-
-### Features
-
-* Werbebanner ([5607c8d](https://github.com/Josh37237/backup-video-gruppe7/commit/5607c8def71187ba20d77423ad4f47dd042a8e67))
-
 ## [1.1.0](https://github.com/Josh37237/backup-video-gruppe7/compare/v1.0.1...v1.1.0) (2025-11-15)
 
 
