@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/Josh37237/backup-video-gruppe7/compare/v1.0.0...v1.0.1) (2025-11-15)
+
+
+### Bug Fixes
+
+* Schreibfehler ([d6eb1f5](https://github.com/Josh37237/backup-video-gruppe7/commit/d6eb1f53c3a3e8ec4951e5535dd25feb184e37fd))
+
 ## 1.0.0 (2025-11-15)
 
 
